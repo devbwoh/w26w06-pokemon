@@ -1,3 +1,12 @@
+# 웹 서버 프로그래밍 2026
+
+# Week 06. Pokemon
+
+<img width="640" alt="image" src="https://github.com/user-attachments/assets/76bcbaf4-2d03-43db-9005-6a269e318059" />
+---
+<img width="640" alt="image" src="https://github.com/user-attachments/assets/db31c06b-b9af-4727-8c2b-965683abda86" />
+
+---
 # Welcome to React Router!
 
 A modern, production-ready template for building full-stack React applications using React Router.
